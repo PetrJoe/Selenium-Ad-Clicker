@@ -2,7 +2,7 @@ repo_name: PetrJoe/Selenium-Ad-Clicker
 report_id: 972d8a5f49e5a8a6c8db89d15da9c34e
 version: 0.1
 repo_type: Public
-timestamp: '2024-06-10T12:01:49+00:00'
+timestamp: '2024-06-10T12:33:31+00:00'
 requested_by: LegitCamper
 provider: github
 branch: main
@@ -81,8 +81,6 @@ tools:
   image_url: https://img.stackshare.io/service/1818/cephglyph_copy_400x400.png
   detection_source_url: https://github.com/PetrJoe/Selenium-Ad-Clicker/blob/main/Myst/docker-compose.yaml
   detection_source: Myst/docker-compose.yaml
-  last_updated_by: sawyer bristol
-  last_updated_on: 2022-07-25 03:57:16.000000000 Z
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
     fast, scalable network applications
@@ -94,8 +92,6 @@ tools:
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
   detection_source_url: https://github.com/PetrJoe/Selenium-Ad-Clicker/blob/main/Myst/docker-compose.yaml
   detection_source: Myst/docker-compose.yaml
-  last_updated_by: sawyer bristol
-  last_updated_on: 2022-07-25 03:57:16.000000000 Z
 - name: Docker
   description: Enterprise Container Platform for High-Velocity Innovation.
   website_url: https://www.docker.com/
@@ -127,8 +123,6 @@ tools:
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
   detection_source_url: https://github.com/PetrJoe/Selenium-Ad-Clicker/blob/main/venv/Lib/site-packages/undetected_chromedriver-3.1.5.post4-py3.10.egg-info/requires.txt
   detection_source: venv/Lib/site-packages/undetected_chromedriver-3.1.5.post4-py3.10.egg-info/requires.txt
-  last_updated_by: Josh Leach
-  last_updated_on: 2022-05-21 15:19:18.000000000 Z
 - name: Selenium
   description: Web Browser Automation
   website_url: http://www.seleniumhq.org/
@@ -140,8 +134,6 @@ tools:
   image_url: https://img.stackshare.io/service/1517/sbUizSli_400x400.jpg
   detection_source_url: https://github.com/PetrJoe/Selenium-Ad-Clicker/blob/main/venv/Lib/site-packages/undetected_chromedriver-3.1.5.post4-py3.10.egg-info/requires.txt
   detection_source: venv/Lib/site-packages/undetected_chromedriver-3.1.5.post4-py3.10.egg-info/requires.txt
-  last_updated_by: Josh Leach
-  last_updated_on: 2022-05-21 15:19:18.000000000 Z
 - name: PowerShell
   description: A task automation and configuration management framework
   website_url: https://docs.microsoft.com/en-us/powershell/
@@ -173,8 +165,6 @@ tools:
   image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
   detection_source_url: https://github.com/PetrJoe/Selenium-Ad-Clicker/blob/main/Myst/docker-compose.yaml
   detection_source: Myst/docker-compose.yaml
-  last_updated_by: sawyer bristol
-  last_updated_on: 2022-07-25 03:57:16.000000000 Z
 - name: XSLT
   description: The official Twitter account for the sum of all knowledge, Wikipedia.
     Overseen by @jeffelder.
@@ -195,8 +185,6 @@ tools:
   image_url: https://img.stackshare.io/package/19837/default_85689b353a3a9409328e253ea28d859d29151e0c.png
   detection_source_url: https://github.com/PetrJoe/Selenium-Ad-Clicker/blob/main/Myst/python-scripts/requirements.txt
   detection_source: Myst/python-scripts/requirements.txt
-  last_updated_by: sawyer bristol
-  last_updated_on: 2022-07-25 03:57:16.000000000 Z
 - name: requests
   description: Python HTTP for Humans
   package_url: https://pypi.org/project/requests
@@ -208,8 +196,6 @@ tools:
   image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
   detection_source_url: https://github.com/PetrJoe/Selenium-Ad-Clicker/blob/main/Myst/python-scripts/requirements.txt
   detection_source: Myst/python-scripts/requirements.txt
-  last_updated_by: sawyer bristol
-  last_updated_on: 2022-07-25 03:57:16.000000000 Z
 - name: websockets
   description: An implementation of the WebSocket Protocol
   package_url: https://pypi.org/project/websockets
@@ -221,5 +207,3 @@ tools:
   image_url: https://img.stackshare.io/package/19951/default_fbe690a687f1af7dc36ac3d526708be3294c4cc9.png
   detection_source_url: https://github.com/PetrJoe/Selenium-Ad-Clicker/blob/main/venv/Lib/site-packages/undetected_chromedriver-3.1.5.post4-py3.10.egg-info/requires.txt
   detection_source: venv/Lib/site-packages/undetected_chromedriver-3.1.5.post4-py3.10.egg-info/requires.txt
-  last_updated_by: Josh Leach
-  last_updated_on: 2022-05-21 15:19:18.000000000 Z
