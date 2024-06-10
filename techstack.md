@@ -207,9 +207,9 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[pandas](https://pypi.org/project/pandas)|N/A|07/25/22|sawyer bristol |BSD-3-Clause|N/A|
-|[requests](https://pypi.org/project/requests)|N/A|07/25/22|sawyer bristol |Apache-2.0|N/A|
-|[websockets](https://pypi.org/project/websockets)|N/A|05/21/22|Josh Leach |BSD-3-Clause|N/A|
+|[pandas](https://pypi.org/project/pandas)|N/A|N/A|N/A |BSD-3-Clause|N/A|
+|[requests](https://pypi.org/project/requests)|N/A|N/A|N/A |Apache-2.0|N/A|
+|[websockets](https://pypi.org/project/websockets)|N/A|N/A|N/A |BSD-3-Clause|N/A|
 
 <br/>
 <div align='center'>
